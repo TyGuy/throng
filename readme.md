@@ -1,3 +1,11 @@
+## IMPORTANT NOTE
+
+The usage of this is very different from the original Throng library from @hunterloftis.
+
+The documentation is incorrect and the tests fail.
+
+Use at your own peril.
+
 # Throng
 
 Dead-simple one-liner for clustered Node.js apps.
